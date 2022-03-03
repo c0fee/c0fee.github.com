@@ -1,8 +1,8 @@
-## Welcome to c0fee Pages
+## c0fee's hu tao
 
-You can use the [editor on GitHub](https://github.com/c0fee/c0fee.github.com/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Stats/weapon/artifacts/talents of c0fee's hu tao will be shown here.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hope you won't get her on her rerun.
 
 ### Markdown
 
