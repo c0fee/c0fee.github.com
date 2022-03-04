@@ -4,9 +4,7 @@ Stats/weapon/artifacts/talents of c0fee's hu tao will be shown here.
 
 Hope you won't get her on her rerun.
 
-Hu Tao :D
-
-![image](https://user-images.githubusercontent.com/99862112/156710977-448474f0-d85f-43d9-a7d6-f2283139206d.png)
+c0fee's Hu Tao :D
 
 Hu Tao's crit stats
 ![Z-Hutao 2](https://user-images.githubusercontent.com/99862112/156711360-7667761a-3b4c-43b1-b0ae-a7717ef70dac.png)
@@ -31,3 +29,6 @@ Hu Tao's talents
 
 Hu Tao level up materials
 ![image](https://user-images.githubusercontent.com/99862112/156723352-78116c79-2bf5-44d5-8318-1d5ce1d020f8.png)
+
+Asia Server
+Uid:
